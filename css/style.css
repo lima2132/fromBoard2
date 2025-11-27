@@ -347,7 +347,7 @@ main {
 	position: relative;
 	margin: 0 auto;
 	z-index: 100;
-	transition: transform 0.8s ease;
+	transition: transform 0.5s ease;
 }
 .reviews-block {
 	position: relative;
@@ -1274,3 +1274,4 @@ main {
 		text-align: center;
 	}
 }
+
